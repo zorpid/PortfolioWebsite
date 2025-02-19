@@ -37,7 +37,7 @@ function About() {
         <form id="about_buttons_wrapper" target="_blank">
           <button
             id="about_button"
-            formAction="https://drive.google.com/file/d/1xsnCrigUS5d6EDQWgILDTMFvt_Sa0aRo/view?usp=sharing"
+            formAction="https://drive.google.com/file/d/13E9AEAlNizhRwSvViXzQT2qIs3CDNvy2/view?usp=sharing"
           >
             <p>View CV</p>
             <img src={cv_url} alt="CV icon" />
@@ -48,7 +48,7 @@ function About() {
             id="about_button"
             formAction="https://drive.google.com/file/d/1jDQ01yjvLC2jQwX-QcgeALrNmOHASfWa/view?usp=sharing"
           >
-            <p>View CV</p>
+            <p>View Grades</p>
             <img src={grades_url} alt="CV icon" />
           </button>
         </form>
